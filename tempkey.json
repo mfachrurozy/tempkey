@@ -4,7 +4,7 @@
     "username": "rgstudio",
     "password": "rozyngalam",
     "expiresAt": "2027-12-31",
-    "allowOffline": true
+    "allowOffline": false
   },
   {
     "id": "7e347de1cbac8b43",
